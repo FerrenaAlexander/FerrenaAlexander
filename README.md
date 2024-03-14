@@ -13,5 +13,4 @@ For more about me, including my CV / Resume, see [my website](https://ferrenaale
 
 ## Publications
 
-- [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Ferrena+A&sort=date)
--[ Google Scholar](https://scholar.google.com/citations?user=JxsoUUQAAAAJ&hl=en&authuser=1&oi=ao)
+- [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Ferrena+A&sort=date) | [Google Scholar](https://scholar.google.com/citations?user=JxsoUUQAAAAJ&hl=en&authuser=1&oi=ao)
