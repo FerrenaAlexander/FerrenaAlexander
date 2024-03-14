@@ -8,5 +8,5 @@ For more about me, including my CV / Resume, see [my website](https://ferrenaale
 
 ## Projects
 
-- [scDAPP](https://github.com/bioinfoDZ/scDAPP), an end-to-end analysis pipeline for single cell transcriptomic data
+- [scDAPP](https://github.com/bioinfoDZ/scDAPP), an end-to-end analysis pipeline for single cell transcriptomic data for replicate-aware cross-group comparison
 - [Einstein Omics Club](https://einsteinomics.github.io/), a networking association at Albert Einstein College of Medicine and Montefiore for those with shared interest in omics technology
