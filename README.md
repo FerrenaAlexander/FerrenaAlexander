@@ -1,4 +1,9 @@
-# Alexander Ferrena - Computational Biologist
+# Alexander Ferrena
+
+### Computational biologist
+### PhD Candidate in Clinical Investigation
+### Albert Einstein College of Medicine
+### Bronx, NY
 
 
 Hello and welcome to my Github! My name is Alex, I'm a computational biologist and PhD Candidate at Albert Einstein College of Medicine.
