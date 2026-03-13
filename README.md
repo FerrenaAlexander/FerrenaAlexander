@@ -1,7 +1,7 @@
 # Alexander Ferrena, PhD
 
 
-Hello and welcome to my Github! My name is Alex, I'm a computational biologist at NYU Langone Health.
+Hello! My name is Alex, I'm a computational biologist at NYU Langone Health.
 
 For more about me, including my CV / Resume, see [my website](https://ferrenaalexander.github.io/).
 
